@@ -1,0 +1,2 @@
+# MyVimrc
+👾📝My own vimrc📝👾
